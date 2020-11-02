@@ -15,7 +15,7 @@ My other Telerik UI exploit (for CVE-2017-11317 and CVE-2017-11357) will probabl
 
 This exploit attacks a weak encryption implementation to discover the dialog handler key for vulnerable versions of Telerik UI for ASP.NET AJAX, then provides an encrypted link which gives access to a file manager, and arbitrary file upload (e.g. web shell) if remote file permissions allow. Works up to and including version 2017.1.118.
 
-![dp_crypto screenshot](images/upload2_screenshot.png)
+![telerik screenshot](a.jpg)
 
 ## Usage
 
