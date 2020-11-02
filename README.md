@@ -9,7 +9,7 @@ Base64-based encryption oracle exploit for CVE-2017-9248 (Telerik UI for ASP.NET
 ## See also
 
 My other Telerik UI exploit (for CVE-2017-11317 and CVE-2017-11357) will probably also be of interest. It is available here:
-- https://github.com/bao7uo/RAU_crypto
+- https://github.com/SABUNMANDICYBERTEAM/
 
 ## Overview
 
